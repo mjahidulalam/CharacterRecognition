@@ -1,2 +1,2 @@
-# HandwrittingRecognition
-First attempt at training neural net to recognize handwriting
+# CharacterRecognition
+First attempt at training neural net to recognize characters
